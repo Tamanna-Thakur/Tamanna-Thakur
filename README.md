@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tamanna Thakur</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right"alt="coding"width="400"src="[https://camo.githubusercontent.com/b70081ec9c6d16a35bf18610619030bfc810cda3118051cf75ace93700e233c1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F16093268-Desktop-Animation&psig=AOvVaw2Lx7_h-BubMKjqgsZPYP0G&ust=1729170636829000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODB0d_8kokDFQAAAAAdAAAAABAR"
+<img align="right"alt="coding"width="400"src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamanna-thakur&label=Profile%20views&color=0e75b6&style=flat" alt="tamanna-thakur" /> </p>
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,REACTJS**
